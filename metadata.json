@@ -1,0 +1,7 @@
+{
+  "name": "NutriFit AI",
+  "description": "A student-friendly, AI-powered nutrition and fitness platform focused on sustainable habits, educational insights, and personalized physique guidance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
